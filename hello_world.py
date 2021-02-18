@@ -4,7 +4,7 @@ Team members: Alex Tyson, Gannon Leech, Josh Lin
 
 
 def main():
-    print("Hello, Jo!")
+    print("Hello, this is for PQ0!")
 
 if __name__ == "__main__":
     main()
